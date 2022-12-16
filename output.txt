@@ -1,0 +1,2 @@
+Encryption of PlainText  कखग is : चझठ
+Decryption of CipherText  चझठ is :  कखग
